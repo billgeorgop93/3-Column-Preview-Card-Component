@@ -6,4 +6,4 @@ https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2
 This is the preview I made:
 ![](FinishedPreview.png)
 
-Live: https://zer0fr0st93.github.io/3-Column-Preview-Card-Component/
+Live: https://billgeorgop93.github.io/3-Column-Preview-Card-Component/
